@@ -1,5 +1,12 @@
+@font-face {
+    font-family: 'MyPixelFont';
+    src: url('fonts\MyPixelFont.ttf-1e78ed65ae86651fd248c5f9ae8d1048.fontdata-folding-0f583fbfd89a2adec447c9933b2589e0.cfg') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 h1 {
     color:darkgoldenrod;
-    font-family:fantasy;
+    font-family:'MyPixelFont', sans-serif;
     font-size:8rem
 }
