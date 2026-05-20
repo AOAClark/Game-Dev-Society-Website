@@ -5,6 +5,10 @@
     font-style: normal;
 }
 
+nav {
+    display: inline;
+}
+
 h1 {
     color:darkgoldenrod;
     font-family:'MyPixelFont', sans-serif;
