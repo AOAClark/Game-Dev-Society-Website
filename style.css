@@ -5,6 +5,10 @@
     font-style: normal;
 }
 
+nav ul{
+    display: inline;
+}
+
 nav li {
     display: inline;
 }
