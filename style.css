@@ -7,14 +7,14 @@
 
 body{
     background: linear-gradient(-45deg, #68deaf, #883960);
-    margin: 0;
+    margin: 20px;
     padding: 0;
 }
 
 nav ul{
     display: inline;
     justify-content: center;
-    margin: 20px;
+    padding: 20px;
 }
 
 nav li {
