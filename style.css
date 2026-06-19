@@ -15,6 +15,9 @@ nav ul{
     display: inline;
     justify-content: center;
     padding: 20px;
+}
+
+#menu_navigation {
     background-color: darkslategrey;
 }
 
