@@ -27,7 +27,7 @@ header h1 {
     text-align: center;
     color:darkgoldenrod;
     font-family:'MyPixelFont', sans-serif;
-    font-size: clamp(1.5rem, 3.8vw, 3.8vw);
+    font-size: clamp(1.5rem, 3.2vw, 3.2vw);
 }
 
 body{
