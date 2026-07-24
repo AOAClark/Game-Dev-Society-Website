@@ -6,7 +6,7 @@
 }
 
 body{
-    background: linear-gradient(-45deg, #150f59, #2c0719);
+    /* background: linear-gradient(-45deg, #150f59, #2c0719); */
     margin: 0 80px;
     padding: 0;
 }
@@ -20,6 +20,7 @@ nav ul{
 #menu_navigation {
     background-color: darkslategrey;
     padding: 20px;
+    justify-content: center;
 }
 
 nav li {
