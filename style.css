@@ -26,6 +26,7 @@ nav ul{
     background-color: darkslategrey;
     padding: 20px;
     justify-content: center;
+    color: darkgoldenrod;
 }
 
 nav li {
@@ -39,7 +40,7 @@ h1 {
     color:darkgoldenrod;
     font-family:'MyPixelFont', sans-serif;
     font-size:2rem;
-    margin-top: 4rem;
+    margin-top: 8rem;
 }
 
 h2 {
