@@ -50,9 +50,11 @@ nav ul{
 
 #menu_navigation {
     background-color: darkslategrey;
+    width: fit-content;
     padding: 20px;
     justify-content: center;
     color: darkgoldenrod;
+    margin: 0;
 }
 
 nav li {
