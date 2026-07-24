@@ -20,14 +20,14 @@ header{
 header h1 {
     position: absolute;
 
-    top: 45%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     margin: 0;
     text-align: center;
     color:darkgoldenrod;
     font-family:'MyPixelFont', sans-serif;
-    font-size: clamp(1.5rem, 4vw, 3rem);
+    font-size: clamp(1.5rem, 3.8vw, 3rem);
 }
 
 body{
