@@ -11,7 +11,7 @@ body{
     padding: 0;
     background-image: url('images/background_art/Arcade Background1.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-attachment: fixed;
 }
