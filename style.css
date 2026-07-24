@@ -6,7 +6,7 @@
 }
 
 body{
-    /* background: linear-gradient(-45deg, #150f59, #2c0719); */
+    background: linear-gradient(-45deg, #150f59, #2c0719);
     margin: 0 80px;
     padding: 0;
     background-image: url('images/background_art/Arcade Background1.png');
@@ -38,7 +38,8 @@ h1 {
     text-align: center;
     color:darkgoldenrod;
     font-family:'MyPixelFont', sans-serif;
-    font-size:8rem
+    font-size:2rem;
+    margin-top: 4rem;
 }
 
 h2 {
