@@ -28,7 +28,7 @@ header h1 {
     color:darkgoldenrod;
     font-family:'MyPixelFont', sans-serif;
     font-size: clamp(1.5rem, 3.2vw, 3.2vw);
-    text-shadow: 0 0 5px rgb(0, 12, 5);
+    text-shadow: 2px 2px rgb(0, 12, 5);
 }
 
 body{
