@@ -28,7 +28,7 @@ header h1 {
     color:darkgoldenrod;
     font-family:'MyPixelFont', sans-serif;
     font-size: clamp(1.5rem, 3.2vw, 3.2vw);
-    text-shadow: 2px 2px rgb(0, 12, 5);
+    text-shadow: 2px 6px rgb(0, 12, 5);
 }
 
 body{
@@ -46,6 +46,7 @@ nav ul{
 
     justify-content: center;
     padding: 20px;
+    margin: 0;
 }
 
 #menu_navigation {
@@ -61,6 +62,7 @@ nav li {
 
     padding: 40px;
     border-width: 4px;
+    margin: 0;
 }
 
 /* h1 {
