@@ -1,5 +1,5 @@
 body {
-    background-color: linear-gradient(-45deg, #680505, #9d8f09, rgb(2, 99, 71), rgb(31, 1, 120));
+    background-image: linear-gradient(-45deg, #680505, #9d8f09, rgb(2, 99, 71), rgb(31, 1, 120));
 }
 
 h2 {
