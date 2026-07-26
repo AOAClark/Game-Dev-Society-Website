@@ -41,6 +41,7 @@ body{
 #menu_navigation {
     position: relative;
     display: inline-block;
+    font-family:'MyPixelFont', sans-serif;
 }
 
 #menu_navigation:hover .dropdown-content {
