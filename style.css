@@ -41,7 +41,7 @@ body{
 #menu_navigation {
     position: relative;
     display: inline-block;
-    font-family:'MyPixelFont', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #menu_navigation:hover .dropdown-content {
@@ -53,6 +53,7 @@ body{
     /* opacity: 15%; */
     background-color: rgb(169, 101, 208);
     padding: 1.5rem 3rem;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .dropdown-content {
