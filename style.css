@@ -38,14 +38,20 @@ body{
 
 }
 
-nav ul{
+.dropbtn {
+    border: 2px solid salmon;
+    opacity: 20%;
+    background-color: bisque;
+}
+
+/* nav ul{
 
     justify-content: center;
     padding: 20px;
 
-}
+} */
 
-#menu_navigation {
+/* #menu_navigation {
     background-color: darkslategrey;
     width: fit-content;
     padding: 20px;
@@ -59,7 +65,7 @@ nav li {
     padding: 40px;
     border-width: 4px;
 
-}
+} */
 
 
 
