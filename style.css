@@ -49,7 +49,7 @@ body{
 
 .dropbtn {
     border: 2px solid rgb(29, 1, 49);
-    opacity: 15%;
+    /* opacity: 15%; */
     background-color: rgb(169, 101, 208);
     padding: 1.5rem 3rem;
 }
