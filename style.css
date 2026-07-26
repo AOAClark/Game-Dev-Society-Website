@@ -38,6 +38,15 @@ body{
 
 }
 
+#menu_navigation {
+    position: relative;
+    display: inline-block;
+}
+
+#menu_navigation:hover .dropdown-content {
+    display: block;
+}
+
 .dropbtn {
     border: 2px solid salmon;
     opacity: 20%;
@@ -56,6 +65,8 @@ body{
     display: block;
     color: bisque;
 }
+
+
 
 /* nav ul{
 
