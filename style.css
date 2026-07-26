@@ -54,6 +54,7 @@ body{
     background-color: rgb(169, 101, 208);
     padding: 1.5rem 3rem;
     font-family: 'Courier New', Courier, monospace;
+    font-size: inherit;
 }
 
 .dropdown-content {
