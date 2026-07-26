@@ -49,9 +49,9 @@ body{
 
 .dropbtn {
     border: 2px solid rgb(29, 1, 49);
-    opacity: 5%;
-    background-color: bisque;
-    padding: 0 3rem;
+    opacity: 15%;
+    background-color: rgb(169, 101, 208);
+    padding: 1.5rem 3rem;
 }
 
 .dropdown-content {
@@ -60,6 +60,7 @@ body{
     top: 100%;
     left: 0;
     box-shadow: 0px 8px 16px rgb(29, 1, 49);
+    background-color: rgba(169, 101, 208);
     
 }
 
@@ -67,7 +68,7 @@ body{
     display: block;
     color: bisque;
     border: 2px solid rgb(29, 1, 49);
-    padding: 3rem;
+    padding: 1.5rem 3rem;
 }
 
 
