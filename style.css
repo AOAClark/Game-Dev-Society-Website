@@ -70,7 +70,7 @@ body{
 .dropdown-content a {
     display: block;
     /* color: bisque; */
-    border: 2px solid rgb(29, 1, 49);
+    border: 2px solid white;
     padding: 1.5rem 3rem;
 }
 
