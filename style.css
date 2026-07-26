@@ -51,7 +51,8 @@ body{
 .dropbtn {
     border: 2px solid rgb(29, 1, 49);
     /* opacity: 15%; */
-    background-color: linear-gradient(-45deg, rgb(169, 101, 208), rgb(29, 1, 49));
+    background-color: linear-gradient(-45deg, #9972c2, #2c023f);
+    padding: 1.5rem 3rem;
     font-family: 'Courier New', Courier, monospace;
     font-size: inherit;
 }
