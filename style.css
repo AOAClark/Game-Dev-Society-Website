@@ -5,7 +5,7 @@
     font-style: normal;
 }
 
-header{
+/* header{
     position: relative;
     width: 100%;
     aspect-ratio: 16/9;
@@ -16,9 +16,9 @@ header{
     background-position: center;
     background-attachment: fixed;
 
-    /* border: 6px solid #fc09c3;
-    box-shadow: #fc09c3; */
-}
+    border: 6px solid #fc09c3;
+    box-shadow: #fc09c3;
+} */
 
 header h1 {
     position: absolute;
@@ -38,6 +38,16 @@ body{
     background: linear-gradient(-45deg, #150f59, #2c0719);
 
     padding: 0;
+
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9;
+
+    background-image: url('images/background_art/Arcade Background1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
 
 }
 
