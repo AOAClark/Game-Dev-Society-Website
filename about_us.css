@@ -50,7 +50,7 @@ body {
 
 .dropdown-content a {
     display: block;
-    /* color: bisque; */
+
     border: 2px solid darkgoldenrod;
     padding: 1.5rem 3rem;
 }
