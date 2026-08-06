@@ -10,7 +10,7 @@ body {
     background-position: center;
     background-attachment: fixed;
 
-    text-align: center;
+    
 
 }
 
@@ -59,6 +59,7 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     color: darkolivegreen;
+    text-align: center;
 }
 
 p {
@@ -70,4 +71,6 @@ p {
     padding: 3rem;
     border-radius: 30px;
     margin: 8rem;
+
+    text-align: center;
 }
