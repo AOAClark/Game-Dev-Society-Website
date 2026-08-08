@@ -35,13 +35,7 @@ header h1 {
 }
 
 body{
-    background: linear-gradient(-45deg, #150f59, #2c0719);
-
-    /* padding: 0;
-
-    position: relative;
-    width: 100%;
-    aspect-ratio: 16/9; */
+    background-color: #1a022a;
 
     background-image: url('images/background_art/Arcade Background1.png');
     background-repeat: no-repeat;
