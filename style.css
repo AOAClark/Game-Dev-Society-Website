@@ -5,6 +5,14 @@
     font-style: normal;
 }
 
+/* Styles applied ONLY to standard (non-OLED/non-P3) screens */
+@media (color-gamut: srgb) {
+    body {
+        /* Boosts brightness, contrast, and vividness to compensate */
+        filter: saturate(125%) contrast(110%) brightness(105%);
+    }
+}
+
 /* header{
     position: relative;
     width: 100%;
