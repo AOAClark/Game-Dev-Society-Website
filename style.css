@@ -9,7 +9,7 @@
 @media (color-gamut: srgb) {
     body::before{
         /* Boosts brightness, contrast, and vividness to compensate */
-        filter: saturate(130%) contrast(110%) brightness(105%);
+        filter: saturate(120%) contrast(110%) brightness(105%);
     }
 }
 
