@@ -9,7 +9,7 @@
 @media (color-gamut: srgb) {
     body::before{
         /* Boosts brightness, contrast, and vividness to compensate */
-        filter: saturate(120%) contrast(110%) brightness(105%);
+        filter: saturate(110%) contrast(110%) brightness(105%);
     }
 }
 
@@ -71,11 +71,12 @@ body::before {
     position: relative;
     display: inline-block;
     font-family: 'Courier New', Courier, monospace;
+    color: black;
 }
 
 #menu_navigation:hover .dropdown-content {
     display: block;
-    color: black;
+    
 }
 
 .dropbtn {
