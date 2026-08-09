@@ -9,7 +9,7 @@
 @media (color-gamut: srgb) {
     body::before{
         /* Boosts brightness, contrast, and vividness to compensate */
-        filter: saturate(125%) contrast(110%) brightness(105%);
+        filter: saturate(145%) contrast(110%) brightness(105%);
     }
 }
 
@@ -45,7 +45,6 @@ header h1 {
 body{
     background-color: #1a022a;
     position: relative;
-    margin: 0;
     min-height: 100vh;
 
 }
