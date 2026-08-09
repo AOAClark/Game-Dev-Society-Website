@@ -6,12 +6,12 @@
 }
 
 /* Styles applied ONLY to standard (non-OLED/non-P3) screens */
-@media (color-gamut: srgb) {
+/* @media (color-gamut: srgb) {
     body::before{
-        /* Boosts brightness, contrast, and vividness to compensate */
+        /* Boosts brightness, contrast, and vividness to compensate 
         filter: saturate(110%) contrast(110%) brightness(105%);
     }
-}
+} */
 
 /* header{
     position: relative;
