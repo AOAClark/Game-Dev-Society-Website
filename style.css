@@ -78,11 +78,12 @@ body::before {
 }
 
 .dropbtn {
-    border: 2px solid darkgoldenrod;
+    border: 2px solid rgb(231, 167, 6);
     /* opacity: 15%; */
-    background-image: linear-gradient(-45deg, #9972c2, #2c023f);
+    background-image: linear-gradient(-45deg, #c6a5e9, #8202bd);
     padding: 1.5rem 3rem;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
     font-size: inherit;
 }
 
