@@ -97,7 +97,7 @@ body::before {
     left: 0;
     /* box-shadow: 0px 8px 16px rgb(29, 1, 49); */
     background-color: #2b69729f;
-    color: white;
+
     
 }
 
@@ -106,6 +106,7 @@ body::before {
     /* color: bisque; */
     border: 2px solid darkgoldenrod;
     padding: 1.5rem 3rem;
+    color: white;
 }
 
 
