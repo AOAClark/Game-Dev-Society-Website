@@ -84,7 +84,7 @@ p {
 
     text-align: center;
 
-    text-box-trim: trim-both text text
+    display: inline-block;
 }
 
 img {
