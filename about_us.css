@@ -86,7 +86,7 @@ body::before {
         text-shadow: 5px 5px 0 #2c023f, 10px 10px 0 #9972c2;
     }
     50% {
-        text-shadow: -5px -5px 0 #9972c2, -10px -10px 0 #2c2c2c;
+        text-shadow: -5px -5px 0 #9972c2, -10px -10px 0 #2c023f;
     }
 }
 
