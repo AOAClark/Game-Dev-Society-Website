@@ -76,5 +76,7 @@ p {
 }
 
 img {
-    align-self: center;
+    display: block;
+    margin: auto;
+    width: 30%;
 }
