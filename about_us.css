@@ -65,11 +65,27 @@ body::before {
     padding: 1.5rem 3rem;
 }
 
-h2 {
+/* h2 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     color: darkolivegreen;
     text-align: center;
+} */
+
+.shadow-dance-text {
+    font-size: 4rem;
+    color: #fff;
+    text-shadow: 5px 5px 0 #ff005e, 10px 10px 0 #00d4ff;
+    animation: shadow-dance 2s infinite;
+}
+
+@keyframes shadow-dance {
+    0%, 100% {
+        text-shadow: 5px 5px 0 #ff005e, 10px 10px 0 #00d4ff;
+    }
+    50% {
+        text-shadow: -5px -5px 0 #00d4ff, -10px -10px 0 #ff005e;
+    }
 }
 
 p {
