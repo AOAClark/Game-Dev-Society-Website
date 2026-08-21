@@ -74,8 +74,8 @@ body::before {
 
 .shadow-dance-text {
     font-size: 6rem;
-    color: #261802;
-    text-shadow: 5px 5px 0 #e8afc4, 10px 10px 0 #9cd7e3;
+    color: #e1edbe;
+    text-shadow: 5px 5px 0 #2c023f, 10px 10px 0 #9972c2;
     animation: shadow-dance 8s infinite;
 
     text-align: center;
@@ -83,10 +83,10 @@ body::before {
 
 @keyframes shadow-dance {
     0%, 100% {
-        text-shadow: 5px 5px 0 #e8afc4, 10px 10px 0 #9cd7e3;
+        text-shadow: 5px 5px 0 #2c023f, 10px 10px 0 #9972c2;
     }
     50% {
-        text-shadow: -5px -5px 0 #9cd7e3, -10px -10px 0 #e8afc4;
+        text-shadow: -5px -5px 0 #9972c2, -10px -10px 0 #2c2c2c;
     }
 }
 
