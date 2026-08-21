@@ -73,8 +73,8 @@ body::before {
 } */
 
 .shadow-dance-text {
-    font-size: 4rem;
-    color: #e1edbe;
+    font-size: 6rem;
+    color: #261802;
     text-shadow: 5px 5px 0 #e8afc4, 10px 10px 0 #9cd7e3;
     animation: shadow-dance 8s infinite;
 
