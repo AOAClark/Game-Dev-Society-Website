@@ -80,10 +80,10 @@ body::before {
 }
 
 .dropbtn {
-    border: 2px solid rgb(231, 167, 6);
+    
     /* opacity: 15%; */
     background-image: url('images/background_art/nav_button1.png');
-    background-size: 100% 100%;
+    background-size: 100% 150%;
 
     padding: 1.5rem 3rem;
     font-family: 'Courier New', Courier, monospace;
