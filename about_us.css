@@ -75,7 +75,7 @@ body::before {
 .shadow-dance-text {
     font-size: 6rem;
     color: #e1edbe;
-    text-shadow: 5px 5px 0 #2c023f, 10px 10px 0 #9972c2;
+    text-shadow: -5px -5px 0 #2c023f, -10px -10px 0 #9972c2;
     /* animation: shadow-dance 8s infinite; */
 
     text-align: center;
