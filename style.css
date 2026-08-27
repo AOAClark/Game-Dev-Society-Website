@@ -83,11 +83,9 @@ body::before {
     
     /* opacity: 15%; */
     background-image: url('images/background_art/nav_button1.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-size: 100% 100%;
 
-    padding: 1.5rem 3rem;
+    padding: 3rem 3rem;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     font-size: inherit;
