@@ -79,6 +79,10 @@ body::before {
     
 }
 
+#menu_navigation:hover .dropbtn {
+    background-image: url('images/background_art/nav_button2.png');
+}
+
 .dropbtn {
     
     /* opacity: 15%; */
