@@ -29,6 +29,10 @@ body::before {
 
 } */
 
+.main_text {
+    text-align: center;
+}
+
 #menu_navigation {
     position: relative;
     display: inline-block;
