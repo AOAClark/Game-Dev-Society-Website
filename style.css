@@ -82,7 +82,7 @@ body::before {
 #menu_navigation:hover .dropbtn {
     background-image: url('images/background_art/nav_button2.png');
     padding: 2rem 3rem;
-    color: rgb(237, 124, 255);
+    color: rgb(117, 2, 135);
 }
 
 .dropbtn {
@@ -92,6 +92,7 @@ body::before {
     background-size: 100% 100%;
     background-color: transparent;
     border: none;
+    margin: 1rem;
 
     padding: 1.5rem 3rem 2.5rem 3rem;
     font-family: 'Courier New', Courier, monospace;
