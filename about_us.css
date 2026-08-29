@@ -124,18 +124,18 @@ img {
     gap: 2rem;
 }
 
-.profile #millie {
+#millie {
     background-color: rgb(234, 172, 158);
 }
 
-.profile #anna {
+#anna {
     background-color: rgb(220, 227, 159);
 }
 
-.profile #maia {
+#maia {
     background-color: rgb(147, 230, 202);
 }
 
-.profile #kendra {
+#kendra {
     background-color: rgb(116, 167, 218);
 }
