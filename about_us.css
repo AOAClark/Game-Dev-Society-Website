@@ -117,3 +117,7 @@ img {
     margin: auto;
     width: 30%;
 }
+
+#committee_section {
+    display: flex
+}
