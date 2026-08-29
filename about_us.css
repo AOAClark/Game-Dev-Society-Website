@@ -115,27 +115,32 @@ p {
 img {
     display: block;
     margin: auto;
-    /* width: 30%; */
+    width: 70%;
 }
 
 #committee_section {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
+    margin: 1rem;
+}
+
+.profile {
+    border-radius: 20%;
 }
 
 #millie {
-    background-color: rgb(234, 172, 158);
+    background-color: rgba(234, 172, 158, 0.715);
 }
 
 #anna {
-    background-color: rgb(220, 227, 159);
+    background-color: rgb(220, 227, 159, 0.715);
 }
 
 #maia {
-    background-color: rgb(147, 230, 202);
+    background-color: rgb(147, 230, 202, 0.715);
 }
 
 #kendra {
-    background-color: rgb(116, 167, 218);
+    background-color: rgb(116, 167, 218, 0.715);
 }
