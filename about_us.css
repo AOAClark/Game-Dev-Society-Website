@@ -128,20 +128,22 @@ img {
 .profile {
     /* border-radius: 30px; */
     text-align: center;
+    border: 8px solid darkgoldenrod;
+    background-color: #1a022a;
 }
 
-#millie {
-    background-color: rgba(234, 172, 158);
+/* #millie {
+    background-color: #1a022a;
 }
 
 #anna {
-    background-color: rgb(220, 227, 159);
+    background-color: #1a022a;
 }
 
 #maia {
-    background-color: rgb(147, 230, 202);
+    background-color: #1a022a;
 }
 
 #kendra {
-    background-color: rgb(116, 167, 218);
-}
+    background-color: #1a022a;
+} */
